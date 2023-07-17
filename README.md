@@ -54,7 +54,7 @@ src
         └── test.properties
 ````
 
-> `Java 11` | `Cucumber 7` | `JUnit 5` | `Rest Assured` | `Allure`
+> `Java 19` | `Cucumber 7` | `JUnit 5` | `Rest Assured` | `Allure`
 
 ## Запуск unit-тестов через maven-команды
 
