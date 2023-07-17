@@ -44,7 +44,7 @@ src
     │   └── com
     │       └── weatherstack
     │           ├── defenitions
-    │           │   └── BankingTests.java
+    │           │   └── WeatherStackApiStepDefinitions.java
     │           └── runner
     │               └── CucumberRunnerTest.java
     └── resources
